@@ -1,2 +1,5 @@
+LOCAL
+
 # Merge-Conflicts
-Hello World 
+
+Hello World
